@@ -78,8 +78,5 @@ The goal is to help financial institutions **reduce bad loans and improve decisi
 - Data Visualization (Plotly)
 - Jupyter Notebook
 
-## 📂 Dataset
-- Source: Financial Loan Dataset (Excel)
-
 ## 👤 Author
 **Muhammad Sarram**  📧 muhammadsarramali@gmail.com
