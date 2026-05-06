@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=220&section=header&text=Financial%20Loan%20Analysis&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=200&section=header&text=Financial%20Loan%20Analysis&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <h2 align="center">📊 Data-Driven Insights for Smarter Lending Decisions</h2>
@@ -20,14 +20,21 @@
 </p>
 
 ## 📌 Project Overview
-This project analyzes loan data from a lending company to understand default risk, customer behavior, and revenue performance. The goal is to identify key factors that influence loan repayment and provide business recommendations to reduce defaults.
 
-## 🎯 Objectives
-- Analyze overall loan performance
-- Identify high-risk vs low-risk customers
-- Understand impact of income, DTI, and loan purpose
-- Evaluate pricing strategy (interest rates vs risk)
-- Provide actionable business recommendations
+This project analyzes lending data to uncover **default risk patterns, customer behavior, and revenue insights**.  
+The goal is to help financial institutions **reduce bad loans and improve decision-making using data**.
+
+✔ 38K+ loan records analyzed  
+✔ End-to-end EDA & business insights  
+✔ Real-world financial risk analysis  
+
+## 🚨 Business Problem
+
+- High loan default rates impacting profitability  
+- Unclear identification of high-risk customers  
+- Inefficient pricing and loan approval strategies  
+
+🎯 Goal: Reduce default rate by **15–20%** while maintaining loan volume
 
 ## 📊 Key Insights
 
@@ -53,11 +60,12 @@ This project analyzes loan data from a lending company to understand default ris
 - Estimated loss from defaults: **$28M+**
 
 ## 💡 Business Recommendations
-1. Reduce high-risk loan exposure (Grades E–G)
-2. Limit long-term loans (60 months)
-3. Focus on high-income customers
-4. Improve credit screening for risky segments
-5. Strengthen collection strategies
+
+- Reduce exposure to high-risk loan grades (E–G)  
+- Focus on high-income borrowers  
+- Limit long-term (60-month) loans  
+- Strengthen credit checks for risky loan purposes  
+- Improve early risk detection systems  
 
 ## 📈 Visualizations
 - Loan Status Distribution (Pie Chart)
