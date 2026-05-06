@@ -56,4 +56,3 @@ This project analyzes loan data from a lending company to understand default ris
 
 ## 👤 Author
 **Muhammad Sarram**  📧 muhammadsarramali@gmail.com
-Data Analyst  
