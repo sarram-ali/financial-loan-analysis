@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=100&section=header&text=Financial%20Loan%20Analysis&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=220&section=header&text=Financial%20Loan%20Analysis&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <h2 align="center">📊 Data-Driven Insights for Smarter Lending Decisions</h2>
