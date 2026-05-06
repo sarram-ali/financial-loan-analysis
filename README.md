@@ -10,6 +10,15 @@
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
 </p>
 
+## 📊 Key Business Metrics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Loans-38,576-0A2540?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Total%20Lent-$435M-1E88E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Default%20Rate-13.82%25-E53935?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Revenue-$473M-43A047?style=for-the-badge"/>
+</p>
+
 ## 📌 Project Overview
 This project analyzes loan data from a lending company to understand default risk, customer behavior, and revenue performance. The goal is to identify key factors that influence loan repayment and provide business recommendations to reduce defaults.
 
