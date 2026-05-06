@@ -1,7 +1,7 @@
-# 📊 Financial Loan Analysis
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=200&section=header&text=Financial%20Loan%20Analysis&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
+
 ## 📌 Project Overview
 This project analyzes loan data from a lending company to understand default risk, customer behavior, and revenue performance. The goal is to identify key factors that influence loan repayment and provide business recommendations to reduce defaults.
 
