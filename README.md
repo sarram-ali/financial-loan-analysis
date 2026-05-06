@@ -38,8 +38,6 @@ The goal is to help financial institutions **reduce bad loans and improve decisi
 
 ## 📊 Key Insights
 
-## 📊 Key Metrics
-
 ### 🔹 Overall Performance
 - Total Loans: **38,576**
 - Total Amount Lent: **$435M+**
