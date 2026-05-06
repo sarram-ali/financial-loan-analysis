@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=200&section=header&text=Financial%20Loan%20Analysis&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
-
 ## 📌 Project Overview
 This project analyzes loan data from a lending company to understand default risk, customer behavior, and revenue performance. The goal is to identify key factors that influence loan repayment and provide business recommendations to reduce defaults.
 
@@ -13,6 +12,15 @@ This project analyzes loan data from a lending company to understand default ris
 - Provide actionable business recommendations
 
 ## 📊 Key Insights
+
+## 📊 Key Metrics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Loans-38,576-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Amount%20Lent-$435M-darkgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Default%20Rate-13.82%25-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Revenue-$473M-purple?style=for-the-badge"/>
+</p>
 
 ### 🔹 Overall Performance
 - Total Loans: **38,576**
